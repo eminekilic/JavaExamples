@@ -1,0 +1,5 @@
+Program to Calculate Area and Perimeter of a Circle Write a program in Java that calculates the area and perimeter of a circle whose radius you get from the user.
+
+Area Formula: π * r * r;
+
+Perimeter Formula: 2 * π * r;
