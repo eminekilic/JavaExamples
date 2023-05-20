@@ -1,0 +1,2 @@
+An isogram is a word that contains no repeating letters.
+For example, the word “visual” is an isogram because each letter in the word appears exactly once, but the word “programming” is not because ‘r’, ‘g’ and ‘m’ appear twice. Your job is to write a method to check whether a string is an isogram or not.
